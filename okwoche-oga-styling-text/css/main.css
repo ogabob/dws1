@@ -1,0 +1,52 @@
+body{
+     background-color: rgb(189,212,222);
+     background-color: #BDD4DE;
+     font:normal normal bold 12px "arial verdana sans serif";
+     }
+     
+ h1{
+     color:rgb(231,76,60);
+     color:#E74C3c;
+     color:red;
+     font:normal normal bold 36px "Coda Caption sans-serif";
+     text-shadow: 1px 1px 3px #666666
+     
+     
+   }
+   
+ h2{
+ 
+    color: rgb(43,58,66);
+     color:#2B3A42;
+    background-color:hsl(0,0%,100%);
+    opacity:0.70;
+    font:normal normal bold 24px "georgia times serif"
+    text-shadow: 2px 2px 7px #111111
+   }
+   
+ul{
+    background-color: rgb(239,239,239);
+    background-color:#EFEFEF;
+  }
+  
+ p{
+     color: rgb(63,87,101);
+     color:#3F5765;
+     font: 1.4em;
+     
+  } 
+  
+a:link {
+     color:red;
+     }
+     
+a:visited{
+        color:orange;
+        }
+a:hover{
+      color:yellow
+       }
+a:active   {
+       color:green;
+       }     
+         

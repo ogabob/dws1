@@ -1,0 +1,32 @@
+body{
+     background-color: rgb(189,212,222);
+     background-color: #BDD4DE;
+     }
+     
+ h1{
+     color:rgb(231,76,60);
+     color:#E74C3c;
+     color:red;
+     
+     
+   }
+   
+ h2{
+ 
+    color: rgb(43,58,66);
+     color:#2B3A42;
+    background-color:hsl(0,0%,100%)
+    opacity:0.15;
+   }
+   
+ul{
+    background-color: rgb(239,239,239);
+    background-color:#EFEFEF;
+  }
+  
+ p{
+     color: rgb(63,87,101);
+     color:#3F5765;
+     
+  }       
+         

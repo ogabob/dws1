@@ -1,0 +1,103 @@
+
+   
+    .definition{
+      float: left;
+      width:90%;
+      margin:3%;
+      padding:2%;
+      color: rgb(63,87,101);
+      color:#3F5765;
+      background-color: rgb(189,212,222);
+      background-color: #BDD4DE;
+      font:normal normal bold 1.000em "arial verdana sans serif";
+            
+               }
+               
+    .characteristics{
+         float:left;
+         width:500px;
+         margin:10px;
+         padding:40px;
+        
+         /*background-color:rgb(239,239,239);
+         background-color:#EFEFEF;*/
+         font:normal normal bold 16px "arial verdana sans serif";
+         clear:left;
+   
+         
+         
+                  }  
+    
+    .wings{
+         float:left;
+         width:500px;
+         margin:10px; 
+         padding:50px;
+         font:normal normal bold 16px "arial verdana sans serif";
+         
+         
+        
+         
+         }
+         
+    .safety{
+         float:left;
+         width:90%;
+         margin:3%;
+         padding:2%;
+         background-color: rgb(189,212,222);
+         background-color: #BDD4DE;
+         font:normal normal bold 1.000em "arial verdana sans serif";
+         color: rgb(63,87,101);
+         color:#3F5765;
+         }  
+         
+         
+         ul{
+    
+    list-style-type: lower-roman;
+           } 
+           
+      h1{
+     color:rgb(231,76,60);
+     color:#E74C3c;
+     color:red;
+     font:normal normal bold 36px "Coda Caption sans-serif";
+     text-shadow: 1px 1px 3px #666666     
+        }  
+        
+        h2{
+ 
+    color: rgb(43,58,66);
+    color:#2B3A42;
+    background-color:hsl(0,0%,100%);
+    opacity:0.70;
+    font:normal normal bold 24px "georgia times serif";
+    text-shadow: 2px 2px 7px #111111;
+    border: 1px solid black;
+   
+    text-align: left;
+    height:30px;
+    box-shadow: 0 0 10px black;
+   
+         }   
+           
+   
+            
+                                         
+     
+  
+a:link {
+     color:red;
+     }
+     
+a:visited{
+        color:orange;
+        }
+a:hover{
+      color:yellow;
+       }
+a:active   {
+       color:green;
+       }     
+         

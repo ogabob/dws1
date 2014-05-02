@@ -1,0 +1,176 @@
+  body{
+           background:url("../images/pattern_047.gif")   center top;
+           
+           }
+      
+          
+    .definition{
+      float: left;
+      width:90%;
+      margin:3%;
+      padding:2%;
+      color: rgb(63,87,101);
+      color:#3F5765;
+      background-color: rgb(189,212,222);
+      background-color: #BDD4DE;
+      font:normal normal bold 1.000em "arial verdana sans serif";
+            
+               }
+               
+    .characteristics{
+         float:left;
+         width:500px;
+         margin:10px;
+         padding:40px;
+        
+         /*background-color:rgb(239,239,239);
+         background-color:#EFEFEF;*/
+         font:normal normal bold 16px "arial verdana sans serif";
+         clear:left;
+         
+         background: -webkit-linear-gradient(top, #f2f6f8 0%,#d8e1e7 50%,#b5c6d0 51%,#e0eff9 100%); /* Chrome10+,Safari5.1+ */
+        }
+        
+        img.takeoff{
+            float:left;
+            margin-left: 180px  
+          
+         
+         
+                  }  
+    
+         
+    .wings{
+         float:left;
+         width:500px;
+         margin:10px; 
+         padding:50px;
+         font:normal normal bold 16px "arial verdana sans serif";
+         background: -webkit-linear-gradient(top, #f2f6f8 0%,#d8e1e7 50%,#b5c6d0 51%,#e0eff9 100%); /* Chrome10+,Safari5.1+ */
+         
+         
+        
+         
+         }
+         
+    .safety{
+         float:left;
+         width:90%;
+         margin:3%;
+         padding:2%;
+         background-color: rgb(189,212,222);
+         background-color: #BDD4DE;
+         font:normal normal bold 1.000em "arial verdana sans serif";
+         color: rgb(63,87,101);
+         color:#3F5765;
+         }  
+   
+     ul.links{
+       list-style-type:none;
+       display:inline;
+             }
+        
+         ul.lists{
+    
+    list-style-type: lower-roman;
+           } 
+           
+      h1{
+     color:rgb(231,76,60);
+     color:#E74C3c;
+     color:red;
+     font:normal normal bold 36px "Coda Caption sans-serif";
+     text-shadow: 1px 1px 3px #666666     
+        }  
+        
+        h2{
+ 
+    color: rgb(43,58,66);
+    color:#2B3A42;
+    background-color:hsl(0,0%,100%);
+    opacity:0.70;
+    font:normal normal bold 24px "georgia times serif";
+    text-shadow: 2px 2px 7px #111111;
+    border: 1px solid black;
+   
+    text-align: left;
+    height:30px;
+    box-shadow: 0 0 10px black;
+   
+         }   
+           
+           
+  table{
+      
+         
+         width:1200px;
+         background-color: rgb(189,212,222);
+         background-color: #BDD4DE;
+        
+         color: rgb(63,87,101);
+         color:#3F5765;
+         font:normal normal bold 1.000em "arial verdana sans serif";
+         margin:3%;
+         padding:2%;
+         
+         
+         
+            }
+            
+  td,th{
+      padding: 7px 10px 10px 10px;}
+  
+  th{
+      text-align: left;
+       background-color:hsl(0,0%,100%);
+       text-transform: uppercase;
+       border-bottom: 1px solid black;
+       }   
+       
+  tr.hughes{
+       
+       }  
+                    
+ tr:hover{
+     background-color:pink;  
+       } 
+       
+            
+      form{  
+      
+         background-color: rgb(189,212,222);
+         background-color: #BDD4DE;
+         float:left;
+         width:90%;
+         margin:3%;
+         padding:2%;
+         background-color: rgb(189,212,222);
+         background-color: #BDD4DE;
+         font:normal normal bold 1.000em "arial verdana sans serif";
+         color: rgb(63,87,101);
+         color:#3F5765;
+         } 
+    input{
+         background-color:white;
+         border: 1px solid black;
+         border-radius: 5px;
+         }   
+    input:focus , input:hover{
+          background-color:yellow;
+          }                              
+     
+  
+a:link {
+     color:red;
+     }
+     
+a:visited{
+        color:orange;
+        }
+a:hover{
+      color:yellow;
+       }
+a:active   {
+       color:green;
+       }     
+         
